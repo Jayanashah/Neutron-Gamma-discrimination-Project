@@ -1,0 +1,15 @@
+# Ignore all Excel files
+*.xlsx
+*.csv
+*.xls
+
+# Just in case the venv is inside the project folder
+.venv/
+
+# Ignore plots and images
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
